@@ -1,0 +1,8 @@
+nama_pelanggan,tanggal_penyewaan,durasi_penyewaan,waktu_jemput,jenis_mobil,sewa_mobil,asuransi,driver,lokasi,metode_pembayaran,biaya_total,Status
+haikal,2023-11-30,1,22:47:00,Biasa(Max 4 orang),250000,0,100000,jl.harapan,Tunai,350000,Gagal
+baruna,2023-12-01,3,13:29:00,Besar(Max 7 orang),1050000,150000,0,jl.way kandis,Transfer Bank,1200000,Berhasil
+pe,2023-12-05,1,12:59:00,Biasa(Max 4 orang),250000,150000,100000,pppp,Tunai,500000,Berhasil
+pe,2023-12-05,1,12:59:00,Biasa(Max 4 orang),250000,150000,100000,pppp,Transfer Bank,500000,Berhasil
+pe,2023-12-05,1,12:59:00,Biasa(Max 4 orang),250000,150000,100000,pppp,QRIS,500000,Berhasil
+,2023-12-05,1,13:09:00,Biasa(Max 4 orang),250000,0,100000,,Tunai,350000,Gagal
+haikal ,2023-12-05,2,15:00:00,Biasa(Max 4 orang),500000,150000,200000,itera,QRIS,850000,Berhasil
